@@ -1,0 +1,7 @@
+{
+  "name": "Franchise Pro",
+  "description": "Franchise Investment Calculator with intelligent financial planning. Using AI we audit and develop websites that can benefit a franchise's family planning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

@@ -1156,7 +1156,7 @@ export default function App() {
                    {/* The Closer / Upsell */}
                   <div className="mt-8 pt-6 border-t border-gray-100 dark:border-gray-700 text-center">
                     <p className="text-gray-700 dark:text-gray-300 text-sm italic mb-4 leading-relaxed px-4">
-                      "{bankerData.closer.replace("Corporate VPs ('Jay' Persona)", "your investors")}"
+                      "{bankerData.closer.replace("Corporate VPs", "your investors")}"
                     </p>
                     <a href="#" className="inline-flex items-center gap-2 bg-black dark:bg-blue-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-gray-800 dark:hover:bg-blue-700 transition-transform active:scale-95 shadow-lg">
                       <ExternalLink size={18} />
